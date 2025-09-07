@@ -1,0 +1,60 @@
+{
+  "query": "I'm seeking ethnic attire suitable for adults, with a preference for Ishin brand. These outfits are intended for festival wear. The clothing set I'm looking for should include a Navy Blue and golden foil printed top with a round neck and three-quarter sleeves, along with a matching skirt featuring a drawstring closure. Both pieces should be made of pure cotton.",
+  "top_3": [
+    {
+      "IDs": "10806700",
+      "Documents": "This clothing set consists of top and skirt<br>Maroon and golden printed top, has a round neck, sleeveless<br>Maroon and golden printed A-line skirt, has a drawstring closure, flared hem<br>Comes with an ethnic jacket, has a round neck, short sleeves, button closureThe model (height 5'8\") is wearing a size STop fabric: Viscose Rayon<br>Bottom fabric: Viscose Rayon<br>Dry-clean Pannkh Women Maroon & Golden Foil Print Top with Skirt",
+      "Distances": 0.28782278299331665,
+      "Metadatas": {
+        "Rating": 3.5,
+        "Product_type": "Top, Skirt",
+        "Price_INR": 2799.0,
+        "Brand": "Pannkh",
+        "Colour": "Maroon",
+        "Description": "This clothing set consists of top and skirt<br>Maroon and golden printed top, has a round neck, sleeveless<br>Maroon and golden printed A-line skirt, has a drawstring closure, flared hem<br>Comes with an ethnic jacket, has a round neck, short sleeves, button closureThe model (height 5'8\") is wearing a size STop fabric: Viscose Rayon<br>Bottom fabric: Viscose Rayon<br>Dry-clean",
+        "Product_id": 10806700,
+        "Name": "Pannkh Women Maroon & Golden Foil Print Top with Skirt",
+        "RatingCount": 8.0,
+        "Product_attributes": "{'Add-Ons': 'NA', 'Bottom Closure': 'Slip-On', 'Bottom Fabric': 'Viscose Rayon', 'Bottom Pattern': 'Printed', 'Bottom Type': 'Skirt', 'Character': 'NA', 'Lining': 'NA', 'Neck': 'Round Neck', 'Number of Pockets': 'NA', 'Occasion': 'Ethnic', 'Sleeve Length': 'Sleeveless', 'Sustainable': 'Regular', 'Top Fabric': 'Viscose Rayon', 'Top Pattern': 'Printed', 'Top Type': 'Top', 'Trends': 'NA', 'Wash Care': 'Machine Wash', 'Wedding': 'Guests & Gifting'}"
+      },
+      "Reranked_scores": -1.1834938526153564
+    },
+    {
+      "IDs": "11253928",
+      "Documents": "This clothing set consists of top and skirt<br>Navy Blue and golden foil printed top, has a round neck, three-quarter sleeves<br>Navy Blue and golden foil printed skirt, has a drawstring closureThe model (height 5'8\") is wearing a size STop fabric: Pure Cotton<br>Bottom fabric: Pure Cotton<br>Dry-clean Ishin Women Navy Blue & Golden Foil Printed Top with Skirt",
+      "Distances": 0.21874400973320007,
+      "Metadatas": {
+        "Description": "This clothing set consists of top and skirt<br>Navy Blue and golden foil printed top, has a round neck, three-quarter sleeves<br>Navy Blue and golden foil printed skirt, has a drawstring closureThe model (height 5'8\") is wearing a size STop fabric: Pure Cotton<br>Bottom fabric: Pure Cotton<br>Dry-clean",
+        "Price_INR": 4499.0,
+        "Colour": "Navy Blue",
+        "Brand": "Ishin",
+        "Product_attributes": "{'Add-Ons': 'NA', 'Bottom Closure': 'Drawstring', 'Bottom Fabric': 'Pure Cotton', 'Bottom Pattern': 'Printed', 'Bottom Type': 'Skirt', 'Character': 'NA', 'Lining': 'NA', 'Neck': 'Round Neck', 'Number of Pockets': 'NA', 'Occasion': 'Ethnic', 'Sleeve Length': 'Three-Quarter Sleeves', 'Sustainable': 'Regular', 'Top Fabric': 'Pure Cotton', 'Top Pattern': 'Printed', 'Top Type': 'Top', 'Trends': 'NA', 'Wash Care': 'Dry Clean'}",
+        "Product_type": "Top, Skirt",
+        "Product_id": 11253928,
+        "Name": "Ishin Women Navy Blue & Golden Foil Printed Top with Skirt"
+      },
+      "Reranked_scores": -1.3053878545761108
+    },
+    {
+      "IDs": "14346054",
+      "Documents": "<ul><li>Colour: navy blue&nbsp;</li><li>Ethnic motifs printed</li><li>Mandarin collar</li><li>Three-quarter, regular sleeves</li><li>Straight shape with regular style</li><li>Calf length with straight hem</li><li>Machine weave regular cotton</li></ul>Cotton <br> Hand washThe model (height 5'8) is wearing a size S Nayo Women Navy Blue Ethnic Motifs Printed Indigo Kurta",
+      "Distances": 0.29266059398651123,
+      "Metadatas": {
+        "Product_attributes": "{'Body Shape ID': '424', 'Body or Garment Size': 'To-Fit Denotes Body Measurements in', 'Colour Family': 'Indigo', 'Design Styling': 'Regular', 'Fabric': 'Cotton', 'Fabric 2': 'NA', 'Fabric Purity': 'Pure', 'Hemline': 'Straight', 'Length': 'Calf Length', 'Main Trend': 'Indigo', 'Neck': 'Mandarin Collar', 'Number of Pockets': 'NA', 'Occasion': 'Daily', 'Ornamentation': 'NA', 'Pattern': 'Printed', 'Print or Pattern Type': 'Ethnic Motifs', 'Shape': 'Straight', 'Sleeve Length': 'Three-Quarter Sleeves', 'Sleeve Styling': 'Regular Sleeves', 'Slit Detail': 'Side Slits', 'Stitch': 'Ready to Wear', 'Sustainable': 'Regular', 'Technique': 'NA', 'Wash Care': 'Hand Wash', 'Weave Pattern': 'Regular', 'Weave Type': 'Machine Weave'}",
+        "Product_id": 14346054,
+        "Description": "<ul><li>Colour: navy blue&nbsp;</li><li>Ethnic motifs printed</li><li>Mandarin collar</li><li>Three-quarter, regular sleeves</li><li>Straight shape with regular style</li><li>Calf length with straight hem</li><li>Machine weave regular cotton</li></ul>Cotton <br> Hand washThe model (height 5'8) is wearing a size S",
+        "Rating": 4.326153846153846,
+        "RatingCount": 325.0,
+        "Colour": "Navy Blue",
+        "Price_INR": 1299.0,
+        "Name": "Nayo Women Navy Blue Ethnic Motifs Printed Indigo Kurta",
+        "Product_type": "Kurta",
+        "Brand": "Nayo"
+      },
+      "Reranked_scores": -2.7718863487243652
+    }
+  ],
+  "generations": [
+    "Based on your preference for Ishin brand ethnic attire suitable for adults for festival wear, I recommend the Ishin Women Navy Blue & Golden Foil Printed Top with Skirt. This set includes a Navy Blue and golden foil printed top with a round neck and three-quarter sleeves, along with a matching skirt featuring a drawstring closure. Both pieces are made of pure cotton, ensuring comfort and a traditional feel.\n\nProduct: Ishin Women Navy Blue & Golden Foil Printed Top with Skirt\nBrand: Ishin\nPrice: 4499.0\nDescription: Navy Blue and golden foil printed top with round neck, three-quarter sleeves<br>Matching skirt with drawstring closure<br>Made of Pure Cotton<br>Model is wearing a size S<br>Dry-clean recommended\n\nAlthough the Pannkh Women Maroon & Golden Foil Print Top with Skirt is a beautiful option, it features maroon and golden prints and is made of Viscose Rayon instead of pure cotton.\n\nIf you are looking specifically for the Navy Blue and golden foil printed set in pure cotton from Ishin, this outfit perfectly fits your requirements for a festival-ready ethnic attire. Enjoy your festival in style with this elegant and comfortable ensemble!"
+  ]
+}
